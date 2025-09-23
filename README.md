@@ -19,7 +19,7 @@
 
 <h2 align="center">NeurIPS 2025 (Spotlight)</h2>
 
-<h3 align="center"><a href="" target="_blank">Paper</a> | <a href="" target="_blank">arXiv</a> | <a href="https://fictionarry.github.io/GeoSVR-project/" target="_blank">Project Page</a>  </h3>
+<h3 align="center"><a href="https://arxiv.org/pdf/2509.18090" target="_blank">Paper</a> | <a href="https://arxiv.org/abs/2509.18090" target="_blank">arXiv</a> | <a href="https://fictionarry.github.io/GeoSVR-project/" target="_blank">Project Page</a>  </h3>
   <div align="center"></div>
 </p>
 
