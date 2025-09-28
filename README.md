@@ -173,6 +173,7 @@ python scripts/dtu_stat.py output/dtu
 python scripts/tnt_stat.py output/tnt
 python scripts/mipnerf360_stat.py output/360
 ```
+- The produced mesh results are provided on [Hugging Face](https://huggingface.co/Fictionary/GeoSVR).
 
 **Note:** The evaluation scripts have a non-trivial influence on mesh quality measurement. In our project, we use the original [Tanks and Temples toolbox](https://github.com/isl-org/TanksAndTemples/tree/master/python_toolbox/evaluation), and [DTU evaluation script](https://github.com/hbb1/2d-gaussian-splatting/tree/main/scripts/eval_dtu) based on [DTUeval-python](https://github.com/jzhangbs/DTUeval-python). 
 
